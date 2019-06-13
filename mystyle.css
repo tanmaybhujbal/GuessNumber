@@ -1,0 +1,29 @@
+html {
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    margin: 32px;
+}
+
+p{
+    padding: 16px;
+}
+
+div{
+    padding: 16px;
+}
+
+body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+    background-color: aliceblue;
+}
+
+.lastResult {
+    color: white;
+    padding: 3px;
+}
